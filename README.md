@@ -123,11 +123,8 @@ Similar to AIC but imposes a **harsher penalty on complex models**. Helps ensure
 - ![GitHub](https://img.shields.io/badge/GitHub-arpsn123-success.svg?style=for-the-badge&logo=github)
 
 
-## 📌 Results & Key Takeaways  
+## Acknowledgment  
+Special thanks to **Sreenivas Bhattiprolu** and his **DigitalSreeni** YouTube channel for insightful content on image processing and deep learning, which helped shape this project.  
 
-✔ **Sholl Analysis helps quantify dendritic complexity**, revealing key insights into neuronal structure.  
-✔ **Polynomial regression** provides a better fit than simple linear models, capturing non-linear growth trends.  
-✔ **Manual soma detection is significantly more accurate** than automated methods in unevenly illuminated images.  
-✔ **Future Work:** Exploring deep learning-based soma detection for improved automation.  
 
 This repository is a powerful tool for neuroscientists, bioinformaticians, and computational researchers looking to analyze neuronal branching patterns with greater precision. 🚀
