@@ -1,4 +1,30 @@
 # 🧠 NeuroSholl: Quantifying Neuronal Complexity with Sholl Analysis  
+<div align="center">
+    <img src="https://img.shields.io/github/stars/arpsn123/Shollution-?style=for-the-badge&logo=github&logoColor=white&color=ffca28" alt="GitHub Repo Stars">
+    <img src="https://img.shields.io/github/forks/arpsn123/Shollution-?style=for-the-badge&logo=github&logoColor=white&color=00aaff" alt="GitHub Forks">
+    <img src="https://img.shields.io/github/watchers/arpsn123/Shollution-?style=for-the-badge&logo=github&logoColor=white&color=00e676" alt="GitHub Watchers">
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/github/issues/arpsn123/Shollution-?style=for-the-badge&logo=github&logoColor=white&color=ea4335" alt="GitHub Issues">
+    <img src="https://img.shields.io/github/issues-pr/arpsn123/Shollution-?style=for-the-badge&logo=github&logoColor=white&color=ff9100" alt="GitHub Pull Requests">
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/github/last-commit/arpsn123/Shollution-?style=for-the-badge&logo=github&logoColor=white&color=673ab7" alt="GitHub Last Commit">
+    <img src="https://img.shields.io/github/contributors/arpsn123/Shollution-?style=for-the-badge&logo=github&logoColor=white&color=388e3c" alt="GitHub Contributors">
+    <img src="https://img.shields.io/github/repo-size/arpsn123/Shollution-?style=for-the-badge&logo=github&logoColor=white&color=303f9f" alt="GitHub Repo Size">
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/github/languages/count/arpsn123/Shollution-?style=for-the-badge&logo=github&logoColor=white&color=607d8b" alt="GitHub Language Count">
+    <img src="https://img.shields.io/github/languages/top/arpsn123/Shollution-?style=for-the-badge&logo=github&logoColor=white&color=4caf50" alt="GitHub Top Language">
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Maintenance-%20Active-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Maintenance Status">
+</div>
+
 
 ## 📌 Overview  
 
@@ -74,6 +100,28 @@ A metric used to balance **model accuracy vs. complexity**. A lower AIC means th
 Similar to AIC but imposes a **harsher penalty on complex models**. Helps ensure that the polynomial degree is not unnecessarily high.  
 
 ---
+
+## Tech Stack
+
+### Programming Language
+- ![Python](https://img.shields.io/badge/Python-3.9-blue.svg?style=for-the-badge&logo=python)
+
+### Frameworks and Libraries
+- ![NumPy](https://img.shields.io/badge/NumPy-1.24.2-blue.svg?style=for-the-badge&logo=numpy)
+- ![SciPy](https://img.shields.io/badge/SciPy-1.10.1-blue.svg?style=for-the-badge&logo=scipy)
+- ![OpenCV](https://img.shields.io/badge/OpenCV-4.6.0-5C3A3A.svg?style=for-the-badge&logo=openCV)
+- ![matplotlib](https://img.shields.io/badge/matplotlib-3.6.0-blue.svg?style=for-the-badge&logo=matplotlib)
+- ![Pandas](https://img.shields.io/badge/Pandas-1.5.3-blue.svg?style=for-the-badge&logo=pandas)
+- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2.2-blue.svg?style=for-the-badge&logo=scikitlearn)
+
+### Tools and Platforms
+- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange.svg?style=for-the-badge&logo=jupyter)
+- ![Google Colab](https://img.shields.io/badge/Google_Colab-free-lightgreen.svg?style=for-the-badge&logo=googlecolab)
+
+### Development and Version Control
+- ![Git](https://img.shields.io/badge/Git-2.47.0-orange.svg?style=for-the-badge&logo=git)
+- ![GitHub](https://img.shields.io/badge/GitHub-arpsn123-success.svg?style=for-the-badge&logo=github)
+
 
 ## 📌 Results & Key Takeaways  
 
